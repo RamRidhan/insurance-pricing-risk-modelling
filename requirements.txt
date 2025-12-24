@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Tree-based and boosting models
+xgboost
+lightgbm
+catboost
+
+# AutoML
+h2o
+
+# Model selection & optimisation
+scipy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Utilities
+tqdm
