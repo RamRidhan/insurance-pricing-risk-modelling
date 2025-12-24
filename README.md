@@ -42,7 +42,7 @@ The target variables are derived as:
 
 A separate holdout dataset with identical features (excluding targets) is used for out-of-sample evaluation.
 
-**NOTE:** Dataset is confidential and it belongs to the property of Allianz and Liverpool Victoria. Access will not be enclosed in public.
+**NOTE:** Dataset is confidential and it belongs to the property of Allianz and Liverpool Victoria. Access not disclosed in public.
 
 ---
 
